@@ -2,7 +2,7 @@
 
 ### Team Members:
 1. Hariharan Raj
-2. Vendantini Dilip Gaikwad
+2. Vedantini Dilip Gaikwad
 3. Harshan Goodwin Hector
 4. Chaman Betrabet
 5. Abhishek Singh
